@@ -1,0 +1,19 @@
+.navbar {
+  background-color: black;
+  color: azure;
+  font-size: x-large;
+  font-weight: bold;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.getButton {
+  background-color: rgb(137, 136, 136);
+  color: azure;
+  border-radius: 10px;
+  width: 100%;
+  padding: 10px;
+  font-size: medium;
+  font-weight: 700;
+}
